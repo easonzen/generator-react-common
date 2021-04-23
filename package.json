@@ -10,6 +10,14 @@
     "react-component",
     "cli"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:easonzen/generator-react-common.git"
+  },
+  "bugs": {
+    "url": "https://github.com/easonzen/generator-react-common/issues"
+  },
+  "homepage": "https://github.com/easonzen/generator-react-common#readme",
   "author": "scnznl@gmail.com",
   "license": "ISC",
   "dependencies": {
