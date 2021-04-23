@@ -77,6 +77,10 @@ class App extends Generator {
                 "css-loader": "^5.2.1",
                 "html-webpack-plugin": "^5.3.1",
                 "prettier": "^2.2.1",
+                "react": "^17.0.2",
+                "react-dom": "^17.0.2",
+                "sass": "^1.32.11",
+                "sass-loader": "^11.0.1",
                 "style-loader": "^2.0.0",
                 "terser-webpack-plugin": "^5.1.1",
                 "ts-loader": "^8.1.0",
@@ -85,8 +89,6 @@ class App extends Generator {
                 "webpack-cli": "^4.6.0",
                 "webpack-dev-server": "^3.11.2",
                 "webpack-merge": "^5.7.3",
-                "react": "^17.0.2",
-                "react-dom": "^17.0.2"
             },
             peerDependencies: {
                 "react": "^17.0.2",
