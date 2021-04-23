@@ -11,7 +11,7 @@ Cli to quick start to develop react component
 ```
 
 ```
-2. npm install
+2. npm install generator-react-common -g
 ```
 
 ```
